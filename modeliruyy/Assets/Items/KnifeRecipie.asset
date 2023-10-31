@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: KnifeRecipie
+  m_EditorClassIdentifier: Assembly-CSharp::CraftRecipe
+  materials:
+  - item: {fileID: 11400000, guid: 0004bf758796e3f479642096625b37bd, type: 2}
+    amount: 1
+  - item: {fileID: 11400000, guid: 65edc95a75e83d54e84e5869f0789e3c, type: 2}
+    amount: 1
+  result:
+  - item: {fileID: 11400000, guid: 9cf8ff3aaf6101a41b333d29729eb3e8, type: 2}
+    amount: 1
